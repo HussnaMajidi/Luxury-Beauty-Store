@@ -67,7 +67,7 @@ export default function About() {
         <h2 className="font-heading text-3xl md:text-4xl font-bold text-center mb-12">Meet the Team</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {[
-            { name: 'Sophia Chen', role: 'Founder & CEO', img: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop' },
+            { name: 'Hussna', role: 'Founder & CEO', img: 'https://image.qwenlm.ai/generated-images/4c39de47-32fd-471e-9935-658b3765892d/_result.png' },
             { name: 'Isabella Rose', role: 'Head of Product', img: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop' },
             { name: 'Emma Laurent', role: 'Creative Director', img: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&h=300&fit=crop' },
           ].map((member, i) => (
